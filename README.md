@@ -4,3 +4,5 @@ _texto em itálico_
 <este comentario nao pode ter acentos>
 ~este é um texto tachado~
 **negrito**
+
+minha alteração está aqui
