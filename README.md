@@ -6,5 +6,3 @@ _texto em itálico_
 **negrito**
 
 minha alteração está aqui
-
-mais uma linha
